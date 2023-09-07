@@ -1,0 +1,43 @@
+export const Welcom_BCK = require('./Welcome_Screen_BCK.png')
+export const Home_Icon = require('./Home.png')
+export const Date_Icon = require('./Calendar.png')
+export const Notification_Icon = require('./Notification.png')
+export const Profile_Icon = require('./User.png')
+export const Home_Icon_Filled = require('./HomeFilled.png')
+export const Date_Icon_Filled = require('./CalendarBold.png')
+export const Notification_Icon_Filled = require('./NotificationFilled.png')
+export const Profile_Icon_Filled = require('./Userbold.png')
+
+export const UIDesignImage = require('./UIDesign.png')
+export const SearchImage = require('./Research.png')
+export const BDEImage = require('./BDE.png')
+export const Development = require('./Development.png')
+export const Testing = require('./Testing.png')
+
+export const UIDesign2 = require('./UIDesign2.png')
+export const SearchImage2 = require('./Research2.png')
+export const BDEImage2 = require('./BDE2.png')
+export const Development2 = require('./Development2.png')
+export const Testing2 = require('./Testing2.png')
+
+export const User1 = require('./user1.png')
+export const User2 = require('./user2.png')
+export const User3 = require('./user3.png')
+export const Login_Icon = require('./loginicon.png')
+export const Password_Show = require('./passwordshow.png')
+export const Password_Hide = require('./passwordhide.png')
+export const Calendar_Icon =require('./calendar_icon.png')
+export const ChangeProfile_Icon = require('./change-profile-icon.png')
+export const EditProfile= require('./edit-profile.png')
+export const Statistics_Icon = require('./statistic-icon.png')
+export const Logout_Icon = require('./Logout-icon.png')
+export const TaskDetail_Circle = require('./taskdetail-circle.png')
+export const TaskDetail_Circle2 =require('./taskdetail-circle2.png')
+export const TaskDetail_Circle3 =require ('./taskdetail-circle3.png')
+export const WhiteImage = require('./WhiteImage.png')
+export const DefaultProfileImage = require('./DefaultProfileImage.png');
+// export const DefaultProfileImage = 'https://i.stack.imgur.com/l60Hf.png';
+export const LinearGradient_BCK = require('./LinearGradient_BCK.png');
+
+export const NoTask = require('./Notask.png')
+export const NoTask2 = require('./Notask2.png')
